@@ -9,3 +9,5 @@ repo for saladgenerator.com
 - cheese.jpg -- https://pixabay.com/en/cheese-parmesan-grated-grater-food-1100774/
 
 
+##### layout template
+used design and elements found in this repo: https://github.com/BlackrockDigital/startbootstrap-new-age
